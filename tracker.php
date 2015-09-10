@@ -142,4 +142,4 @@
     }
   }
 ###### ENDE HAUPTFUNKTION
-?>
+session_destroy(); ?>
